@@ -1,2 +1,2 @@
-# SeinorProject
+# SeniorProject
 BYUI senior project
